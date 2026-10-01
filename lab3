@@ -1,0 +1,13 @@
+class Resume {
+    public static void main(String[] args) {
+        System.out.println("Name: Your Name");
+        System.out.println("Email: you@example.com");
+        System.out.println("Phone: +91 9876543210");
+        System.out.println("Education: B.Tech in Computer Science");
+        System.out.println("Skills: Java, Python, SQL");
+        System.out.println("Experience: Fresher");
+        System.out.println("Projects: Student Management System");
+        System.out.println("Certifications: Java Certification");
+        System.out.println("Hobbies: Reading, Coding");
+    }
+}

@@ -1,0 +1,12 @@
+resume = {
+    "Name": "Your Name",
+    "Email": "you@example.com",
+    "Phone": "+91 9876543210",
+    "Education": "B.Tech in Computer Science",
+    "Skills": "Python, Java, SQL",
+    "Experience": "Fresher",
+    "Projects": "Student Management System",
+    "Certifications": "Python Certification",
+    "Hobbies": "Reading, Coding"
+}
+for key, value in resume.items(): print(f"{key}: {value}")

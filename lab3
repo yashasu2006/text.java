@@ -1,4 +1,4 @@
-class Resume {
+public class Main {
     public static void main(String[] args) {
         System.out.println("Name: Your Name");
         System.out.println("Email: you@example.com");
